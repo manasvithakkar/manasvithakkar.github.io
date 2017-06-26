@@ -54,7 +54,7 @@ img {
 }
 
 .site-navigation-row {
-  background-color: #fefefe;
+  background-color: rgba(0, 0, 0, 0.08);
   text-transform: uppercase;
   height: 45px;
 }
@@ -115,7 +115,7 @@ img {
 }
 
 .event-card {
-  background: #3E4EB8;
+  background: #ff9966;
 }
 
 .event-card .mdl-card__actions {
