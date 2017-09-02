@@ -39,7 +39,7 @@ img {
 }
 
 .site-logo {
-  background: url(../img/rucha.jpeg) 50% no-repeat;
+  background: url(../img/mana.jpeg) 50% no-repeat;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50%;
@@ -113,7 +113,7 @@ img {
 .welcome-card > .mdl-card__title {
   color: #fff;
   height: 290px;
-  background: url("../img/rucha-cover.png") center/cover;
+  background: url("../img/web.jpg") center/cover;
 }
 
 .event-card {
